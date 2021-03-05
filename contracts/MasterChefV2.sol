@@ -8,7 +8,7 @@ import "./libs/SafeBEP20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/ReentrancyGuard.sol";
 
-import "./EggToken.sol";
+import "./MfxToken.sol";
 
 // MasterChef is the master of Egg. He can make Egg and he is a fair guy.
 //
