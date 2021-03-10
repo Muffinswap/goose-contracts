@@ -1,12 +1,12 @@
-# Goose Finance
+# Muffin Finance
 
-https://goosedefi.com Feel free to read the code. More details coming soon.
+https://muffinance.org Feel free to read the code. More details coming soon.
 
 ## Deployed Contracts / Hash
 
 ### BSCMAINNET
 
-- EggToken - https://bscscan.com/token/0xf952fc3ca7325cc27d15885d37117676d25bfda6
-- MasterChef - https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57
+- MuffToken - https://bscscan.com/address/0xebc46c9898f675eefef43ec410dd91edbf0006c1
+- Masterchef - https://bscscan.com/address/0x26da348628ef73c200be6b2ae80793eb668ccbd5#code
 - Timelock - https://bscscan.com/address/0x2Ef488DE034567e9B8D312928fD52812A242aB3A
-- MultiCall - https://bscscan.com/address/0x1ee38d535d541c55c9dae27b12edf090c608e6fb
+- MultiCall - https://bscscan.com/address/0x55edbf8d62b9beea8148294511a5c1fe835b840c#code
